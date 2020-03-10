@@ -8,9 +8,9 @@
 </resources>
 ```
 2. `Androidmanifest.xml`를
+
    <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.angre.flutterkakaologin0310">
-   
+    package="com.angre.flutterkakaologin0310">   
     `<uses-permission android:name="android.permission.INTERNET"/>`
     <application
         android:name="io.flutter.app.FlutterApplication"
