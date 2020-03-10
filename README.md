@@ -39,8 +39,8 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-        <meta-data
+      **  <meta-data
             android:name="com.kakao.sdk.AppKey"
-            android:value="@string/kakao_app_key" />
+            android:value="@string/kakao_app_key" />**
     </application>
 </manifest>```
