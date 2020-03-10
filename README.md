@@ -9,7 +9,7 @@
 ```
 2. `Androidmanifest.xml`를
 
-  <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+ ``` <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.angre.flutterkakaologin0310">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -43,4 +43,4 @@
             android:name="com.kakao.sdk.AppKey"
             android:value="@string/kakao_app_key" />
     </application>
-</manifest>
+</manifest>```
